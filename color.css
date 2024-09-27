@@ -1,1 +1,5 @@
-div{color:#fff}
+.nav-container{
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+}
