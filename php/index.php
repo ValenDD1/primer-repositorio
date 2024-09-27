@@ -1,4 +1,6 @@
 <?php
     $nombre ='pepe';
-    echo $nombre;
+    $edad = 25;
+    echo "$nombre tiene $edad años"; 
+    
 ?>
